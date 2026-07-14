@@ -1,0 +1,6 @@
+{
+  "name": "CodeSentinel",
+  "description": "Multi-step AI code engineering agent for PR review, debugging, and targeted test generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
